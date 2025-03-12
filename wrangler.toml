@@ -1,4 +1,4 @@
 workers_dev = true
-name = "javbus"
+name = "my-telegram-bot"
 type = "webpack"
-account_id = "5598ed56758d7b038c57895f1ff7ecf5"
+account_id = "d05cc92f7f2e086ac3960d34f22dccca"
